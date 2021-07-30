@@ -6,7 +6,7 @@
 
 body {
   background: #efefbb;
-  background: linear-gradient(to right, #d4dfdd, #efefbb);
+  background: linear-gradient(to right, #0cf3c9, #63f3bc);
   font-family: "Lato", sans-serif;
   margin: 0;
   display: flex;
@@ -58,4 +58,10 @@ h1 {
   background-color: rgba(0, 0, 0, 0.1);
   padding: 5px 10px;
   border-radius: 10px;
+  font-size: 0.8em;
+}
+
+.pokemon .info .name {
+  margin: 15px 0 7px;
+  letter-spacing: 1px;
 }
